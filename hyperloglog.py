@@ -24,15 +24,6 @@ def compute_p(m):
     """
     return int(log2(m)) # number of bits needed to represent m
 
-# def create_hyperloglog(error_rate):
-#     """
-#     Create a HyperLogLog data structure with standard error rate of error_rate.
-#     """
-#     # Compute the number of registers needed for the given error rate
-#     m = compute_m(error_rate)
-#     # Initialise registers as a list of zeros
-#     return array('B', [0] * m)
-
 
 def create_hyperloglog(error_rate):
     """
