@@ -1,6 +1,6 @@
 # HyperLogLog
 
-A lightweight and customizable Python implementation of the HyperLogLog algorithm for estimating cardinality with minimal memory usage.
+A Python implementation of the HyperLogLog algorithm for estimating cardinality with minimal memory usage.
 
 ---
 
