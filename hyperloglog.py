@@ -1,3 +1,7 @@
+from mmh3 import hash64
+from math import log, log2, ceil
+from bitarray import bitarray
+
 def hash_value(value):
     """
     Compute the hash value of a given value.
