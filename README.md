@@ -19,7 +19,7 @@ A lightweight and customizable Python implementation of the HyperLogLog algorith
 ## Clone the repository
 
 ```
-git clone https://github.com/yourusername/hyperloglog.git
+git clone https://github.com/pollygogo/HyperLogLog.git
 cd hyperloglog
 ```
 ## Install dependencies
